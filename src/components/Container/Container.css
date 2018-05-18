@@ -1,0 +1,14 @@
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+body {
+    padding-top: 54px;
+}
+.lead, .post-date {
+
+}
+.wrapper > h1 {
+
+}
